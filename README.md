@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Yashika! 👋
 
-<!--
-**yashikaadesai/yashikaadesai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Computer Science** student at **Michigan State University**, pursuing a Bachelor of Science in Computer Science Engineering with minors in **Computational Mathematics** and **German**. I thrive on solving complex problems, building innovative solutions, and creating meaningful impacts through technology.
 
-Here are some ideas to get you started:
+### 🌟 Currently working on:
+- Exploring **machine learning** concepts to design smarter, more efficient systems.
+- Building unique projects with **Haskell**, **Rust**, and **Shell**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills and Tools:
+- **Languages**: Python, C++, JavaScript, Java, SQL, Assembly, HTML/CSS
+- **Frameworks & Libraries**: React.js, Next.js, Flask, Pandas, NumPy, Matplotlib
+
+### 🌍 Fun fact:
+I’ve organized annual clothing drives for 13 years and participated in community health camps, exemplifying my dedication to **social responsibility** and **community engagement**.
+
+Check out my [Portfolio Website](https://yashikaadesai.github.io/Portfolio-Website/) for more!
+
+---
+
