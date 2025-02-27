@@ -10,7 +10,7 @@ I'm a passionate **Computer Science** student at **Michigan State University**, 
 
 ---
 
-## 🖥️ Languages I'm proficient in:
+## Languages I'm proficient in 🖥️:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
@@ -25,7 +25,7 @@ I'm a passionate **Computer Science** student at **Michigan State University**, 
 
 ---
 
-## 🚀 Tech Stacks I'm proficient in:
+## FrameWorks and Libraries :
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
@@ -38,13 +38,13 @@ I'm a passionate **Computer Science** student at **Michigan State University**, 
 
 ---
 
-## 🌟 Currently working on:
+## Currently working on:
 - Exploring **machine learning** concepts to design smarter, more efficient systems.
 - Building unique projects with **Haskell, Rust, and Shell**.
 
 ---
 
-## 🌍 Fun Fact:
+##  Fun Fact:
 I've organized annual clothing drives for **13 years** and participated in **community health camps**, exemplifying my dedication to **social responsibility and community engagement**.
 
 ---
